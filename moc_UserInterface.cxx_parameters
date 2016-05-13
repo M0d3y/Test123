@@ -1,8 +1,0 @@
--I/usr/include/qt4
--I/usr/include/qt4/QtGui
--I/usr/include/qt4/QtCore
--DQT_GUI_LIB
--DQT_CORE_LIB
--o
-/mnt/hgfs/NetBeansProjects/muscleDriver/dcMotorCANInterface/source/moc_UserInterface.cxx
-/mnt/hgfs/NetBeansProjects/muscleDriver/dcMotorCANInterface/source/UserInterface.h
